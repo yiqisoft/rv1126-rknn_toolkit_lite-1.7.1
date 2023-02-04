@@ -3,6 +3,10 @@ Dockerfiles for RV1126 rknn_toolkit_lite v1.7.1 environment
 
 # Build opencv 3.4.3 docker image base on Debian 10 slim
 
+## Docker Hub repository
+
+https://hub.docker.com/r/jiekechoo/debian10-python3-opencv3.4.3
+
 ## Use buildx build cross-platform
 
 ```
@@ -26,6 +30,10 @@ Type "help", "copyright", "credits" or "license" for more information.
 comfirm no ERRORs
 
 # Build rknn-toolkit-lite v1.7.1 docker image and run exmample python code
+
+## Docker Hub repository
+
+https://hub.docker.com/r/jiekechoo/rv1126-rknn_toolkit_lite
 
 ## Use buildx build cross-platform for rknn-tookit-lite
 ```
