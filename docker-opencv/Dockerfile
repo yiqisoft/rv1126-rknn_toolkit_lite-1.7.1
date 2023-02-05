@@ -10,6 +10,8 @@ RUN set -ex \
     && apt-get -qq install -y --no-install-recommends \
         build-essential cmake make gcc g++ git \
         curl wget unzip \
+        ffmpeg libavcodec-dev libavformat-dev libavdevice-dev libv4l-dev \
+        libgstreamer1.0-dev libgstreamer-plugins* \
         libhdf5-103 libhdf5-dev \
         libopenblas-base libopenblas-dev \
         libprotobuf17 libprotobuf-dev \
@@ -43,14 +45,14 @@ RUN set -ex \
         -D WITH_TBB=ON \
         -D WITH_LAPACK=ON \
         -D WITH_PROTOBUF=ON \
-        -D WITH_V4L=OFF \
-        -D WITH_GSTREAMER=OFF \
+        -D WITH_V4L=ON \
+        -D WITH_GSTREAMER=ON \
         -D WITH_GTK=OFF \
         -D WITH_QT=OFF \
         -D WITH_CUDA=OFF \
         -D WITH_VTK=OFF \
         -D WITH_OPENEXR=OFF \
-        -D WITH_FFMPEG=OFF \
+        -D WITH_FFMPEG=ON \
         -D WITH_OPENCL=OFF \
         -D WITH_OPENNI=OFF \
         -D WITH_XINE=OFF \
