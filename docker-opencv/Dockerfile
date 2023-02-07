@@ -82,7 +82,6 @@ RUN set -ex \
         software-properties-common \
         libhdf5-dev \
         libprotobuf-dev \
-        libjpeg62-turbo-dev \
         libpng-dev \
         libtiff-dev \
         libwebp-dev \

@@ -1,0 +1,6 @@
+
+docker buildx build --platform=linux/arm/v7 . -t rv1126-rknn_toolkit_lite
+docker buildx build --platform=linux/arm/v7 . -t rv1126-rknn_toolkit_lite-ekuiper
+
+
+docker run -it --rm --name rv1126-ekuiper rv1126-rknn_toolkit_lite-ekuiper /bin/bashs

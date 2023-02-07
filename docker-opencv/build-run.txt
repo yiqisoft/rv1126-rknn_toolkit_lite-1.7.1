@@ -1,0 +1,2 @@
+
+docker buildx build --platform=linux/arm/v7 . -t debian10-python3-opencv3.4.3
