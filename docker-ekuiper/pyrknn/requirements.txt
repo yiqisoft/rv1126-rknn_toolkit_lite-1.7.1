@@ -1,0 +1,4 @@
+# tflite_runtime>=2.7.0
+# numpy>=1.21.4
+# pynng>=0.7.1
+# Pillow>=8.4.0

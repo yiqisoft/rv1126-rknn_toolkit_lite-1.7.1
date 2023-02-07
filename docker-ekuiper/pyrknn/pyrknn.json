@@ -1,0 +1,12 @@
+{
+  "version": "v1.0.0",
+  "language": "python",
+  "executable": "pyrknn.py",
+  "sources": [
+  ],
+  "sinks": [
+  ],
+  "functions": [
+    "objectDetect"
+  ]
+}
