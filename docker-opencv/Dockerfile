@@ -23,6 +23,7 @@ RUN set -ex \
         libtbb2 libtbb-dev \
         libeigen3-dev \
         libdrm-dev \
+        libatlas-base-dev \
         tesseract-ocr tesseract-ocr-por libtesseract-dev \
         python3 python3-pip python3-numpy python3-dev \
     && wget -q --no-check-certificate https://github.com/opencv/opencv/archive/${OPENCV_VERSION}.zip -O opencv.zip \

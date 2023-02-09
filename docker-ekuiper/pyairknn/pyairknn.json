@@ -1,0 +1,12 @@
+{
+  "version": "v1.0.0",
+  "language": "python",
+  "executable": "pyairknn.py",
+  "sources": [
+  ],
+  "sinks": [
+  ],
+  "functions": [
+    "labelImageRknn"
+  ]
+}

@@ -12,7 +12,7 @@ https://hub.docker.com/r/jiekechoo/debian10-python3-opencv3.4.3
 ```
 cd docker-opencv
 
-docker buildx build --squash --platform=linux/arm/v7 --build-arg OPENCV_VERSION=3.4.3 . -t debian10-python3-opencv3.4.3
+docker buildx build --platform=linux/arm/v7 --build-arg OPENCV_VERSION=3.4.3 . -t debian10-python3-opencv3.4.3
 ```
 ## Run docker container in RV1126 EVK
 ```

@@ -1,0 +1,9 @@
+{
+  "streams": {
+    "tfdemo": "\n              CREATE STREAM tfdemo\n              ()\n              WITH (DATASOURCE=\"tfdemo\", FORMAT=\"binary\", CONF_KEY=\"126\", TYPE=\"mqtt\", SHARED=\"false\", );\n          "
+  },
+  "tables": {},
+  "rules": {
+    "ruleTF": "{\"triggered\":true,\"id\":\"ruleTF\",\"sql\":\"SELECT labelImage(self)[0]-\\u003elabel as label FROM tfdemo\",\"actions\":[{\"mqtt\":{\"bufferLength\":1024,\"enableCache\":false,\"format\":\"json\",\"insecureSkipVerify\":false,\"omitIfEmpty\":false,\"protocolVersion\":\"3.1\",\"qos\":0,\"resourceId\":\"126\",\"runAsync\":false,\"sendSingle\":true,\"server\":\"tcp://192.168.120.207:1883\",\"topic\":\"tfdemo_result\"}}],\"options\":{\"isEventTime\":false,\"lateTolerance\":1000,\"concurrency\":1,\"bufferLength\":1024,\"sendMetaToSink\":false,\"sendError\":true,\"qos\":0,\"checkpointInterval\":300000}}"
+  }
+}

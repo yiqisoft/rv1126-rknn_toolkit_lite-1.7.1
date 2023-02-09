@@ -11,8 +11,8 @@ from ekuiper import Context, Function
 from PIL import Image
 from rknnlite.api import RKNNLite
 
-cwd = '/var/lib/kuiper/plugins/portable/pyrknn/'
-RKNN_MODEL = cwd + 'mobilenet_v1.rknn'
+cwd = 'plugins/portable/pyrknn/'
+RKNN_MODEL = cwd + 'resnet_18.rknn'
 LABELS = cwd + 'labels.txt'
 
 rknn_lite = RKNNLite()
@@ -65,6 +65,7 @@ def object_detect(file_bytes):
     if ret:
         image = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
         image = cv2.resize(image, (224,224))
+        cv2.imwrite('/tmp/image-{}.jpg'.format(time.time()), image)
         outputs = rknn_lite.inference(inputs=[image])
         output = outputs[0].reshape(-1)
         # softmax

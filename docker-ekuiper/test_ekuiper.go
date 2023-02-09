@@ -14,11 +14,10 @@ func main() {
 	images := []string{
 		"parrot.jpg",
 		"owl.jpg",
-		"image.jpeg",
 		"out.jpg",
 		// 其他你需要的图像
 	}
-	opts := mqtt.NewClientOptions().AddBroker("tcp://192.168.120.207:1883")
+	opts := mqtt.NewClientOptions().AddBroker("tcp://192.168.120.20:1883")
 	client := mqtt.NewClient(opts)
 	if token := client.Connect(); token.Wait() && token.Error() != nil {
 		panic(token.Error())
