@@ -1,5 +1,5 @@
-# rv1126-rknn_toolkit_lite-1.7.1
-Dockerfiles for RV1126 rknn_toolkit_lite v1.7.1 environment
+# rv1126-rknn_toolkit_lite-1.8.0
+Dockerfiles for RV1126 rknn_toolkit_lite v1.8.0 environment
 
 # Build opencv 3.4.3 docker image base on Debian 10 slim
 
@@ -12,11 +12,11 @@ https://hub.docker.com/r/jiekechoo/debian10-python3-opencv3.4.3
 ```
 cd docker-opencv
 
-docker buildx build --platform=linux/arm/v7 --build-arg OPENCV_VERSION=3.4.3 . -t debian10-python3-opencv3.4.3
+docker buildx build --platform=linux/arm/v7 --build-arg OPENCV_VERSION=3.4.3 . -t debian10-python3.7-opencv3.4.3
 ```
 ## Run docker container in RV1126 EVK
 ```
-docker run -it --rm debian10-python3-opencv3.4.3 /bin/bash
+docker run -it --rm debian10-python3.7-opencv3.4.3 /bin/bash
 ```
 ## Verify opencv installation for python
 ```
@@ -29,7 +29,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 comfirm no ERRORs
 
-# Build rknn-toolkit-lite v1.7.1 docker image and run exmample python code
+# Build rknn-toolkit-lite v1.8.0 docker image and run exmample python code
 
 ## Docker Hub repository
 
@@ -81,12 +81,12 @@ done
 --> Load RKNN model
 done
 --> Init runtime environment
-librknn_runtime version 1.7.1 (97198ce build: 2021-11-24 09:32:17 base: 1131)
+librknn_runtime version 1.8.0 (97198ce build: 2021-11-24 09:32:17 base: 1131)
 done
 --> get sdk version:
 ==============================================
 RKNN VERSION:
-  API: librknn_runtime version 1.7.1 (97198ce build: 2021-11-24 09:32:17 base: 1131)
+  API: librknn_runtime version 1.8.0 (97198ce build: 2021-11-24 09:32:17 base: 1131)
   DRV: 6.4.6.5.351518
 ==============================================
 
@@ -112,7 +112,7 @@ it takes about 25s, too slow...
 ## Verify C binary program in docker container
 ```
 root@743eeb4de2f7:/opt/devel/yolov5_detect_demo_release# time ./yolov5_detect_demo 
-librknn_runtime version 1.7.1 (97198ce build: 2021-11-24 09:32:17 base: 1131)
+librknn_runtime version 1.8.0 (97198ce build: 2021-11-24 09:32:17 base: 1131)
 time_use is 126.657997
 car @ (258 909 583 1109) 0.841335
 car @ (534 736 739 859) 0.831931
@@ -148,3 +148,98 @@ user	0m0.454s
 sys	0m0.191s
 ```
 wow, 0.69s 
+
+## Run rknn and tflite AI model in RV1126
+It looks rknn(based on RV11126 NPU) inference speed more than tflite(based on host CPU) 100 times in python.
+
+There is a screenshot in `images` folder.
+```
+rknn inference time: 6.874ms
+mobilenet_v1
+-----TOP 5-----
+[ 701 1000]: 0.19482421875
+[ 701 1000]: 0.19482421875
+[722]: 0.0833740234375
+[800]: 0.07501220703125
+[887]: 0.0606689453125
+
+
+0.999801: 89:macaw
+0.000175: 91:lorikeet
+0.000017: 93:bee eater
+0.000003: 90:sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita
+0.000001: 137:European gallinule, Porphyrio porphyrio
+tflite inference time: 722.458ms
+
+
+rknn inference time: 7.054ms
+mobilenet_v1
+-----TOP 5-----
+[89]: 0.88134765625
+[91]: 0.055877685546875
+[85]: 0.03656005859375
+[825]: 0.01407623291015625
+[776]: 0.004871368408203125
+
+
+0.367082: 87:partridge
+0.218766: 84:prairie chicken, prairie grouse, prairie fowl
+0.200458: 83:ruffed grouse, partridge, Bonasa umbellus
+0.097814: 139:bustard
+0.026214: 134:bittern
+tflite inference time: 727.791ms
+
+
+rknn inference time: 6.665ms
+mobilenet_v1
+-----TOP 5-----
+[84]: 0.2236328125
+[ 9 83]: 0.2010498046875
+[ 9 83]: 0.2010498046875
+[139]: 0.10638427734375
+[87]: 0.0626220703125
+
+0.501498: 875:trolleybus, trolley coach, trackless trolley
+0.113881: 655:minibus
+0.094743: 830:streetcar, tram, tramcar, trolley, trolley car
+0.060285: 800:sliding door
+0.030508: 887:vending machine
+tflite inference time: 703.747ms
+
+```
+
+# Some tips
+## Requirements
+
+- A rv1126 EVK board;
+- A high performance PC, Windows based for precompile RKNN models, or macOS based for development;
+- Docker develop skills for build docker images and run containers;
+- Linux develop skills for build HOST run envrionment;
+- Python develop skills for python script debug;
+- AI/ML develop skills for deep learning debug;
+- GO lang program skills;
+
+... so, you `MUST` be a full-stack programmer :D
+
+
+## Directory info
+ - docker-opencv
+
+Build OPENCV3.4.3 environment, there is an example Dockerfile.
+
+ - docker-rknn-toolkit-lite-ekuiper
+
+ Build rknn-toolkit-lite 1.7.1(`it must be 1.7.1, do not use 1.7.3`) and eKuiper 1.8.0(pre-built eKuiper) base on opencv image.
+
+ - inference_with_lite
+
+An rknn-toolkit-lite python script, run in docker container.
+
+ - yolov5_detect_demo_release
+
+C binary program runs in docker container.
+
+- docker-ekuiper
+
+There is a pyairknn(based on pyai from eKuiper repository) package for eKuiper pipeline testing in RV1126.
+
