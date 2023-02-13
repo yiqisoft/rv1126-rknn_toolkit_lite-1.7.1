@@ -3,13 +3,13 @@ import base64
 import io
 import logging
 import time
-from typing import List, Any
+from typing import Any, List
 
-import numpy as np
 import cv2
+import numpy as np
+from ekuiper import Context, Function
 from PIL import Image
 from rknnlite.api import RKNNLite
-from ekuiper import Function, Context
 
 cwd = 'plugins/portable/pyairknn/'
 RKNN_MODEL = cwd + 'mobilenet_v1.rknn'
@@ -76,9 +76,10 @@ def label(file_bytes):
     outputs = rknn_lite.inference(inputs=[image])
     print('rknn inference time: {:.3f}ms'.format((time.time() - t0) * 1000))
     show_outputs(outputs)
-    output = outputs[0].reshape(-1)
+    # output = outputs[0].reshape(-1)
     # softmax
-    output = np.exp(output)/sum(np.exp(output))
+    # output = np.exp(output)/sum(np.exp(output))
+    output = outputs[0][0]
     output_sorted = sorted(output, reverse=True)
     labels = load_labels(LABELS)
     top5 = []
@@ -89,7 +90,8 @@ def label(file_bytes):
             if (i + j) >= 5:
                 break
             if value > 0:
-                top5.append({"index": labels[index[j][0]], "value": float(value)})
+                for k in range(len(index[j])):
+                    top5.append({"index": labels[index[j][k]], "value": float(value)})
             else:
                 top5.append({"index": "-1", "value": 0.0})
     return top5

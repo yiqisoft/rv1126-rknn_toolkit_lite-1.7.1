@@ -1,1001 +1,1001 @@
-0:background
-1:tench, Tinca tinca
-2:goldfish, Carassius auratus
-3:great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias
-4:tiger shark, Galeocerdo cuvieri
-5:hammerhead, hammerhead shark
-6:electric ray, crampfish, numbfish, torpedo
-7:stingray
-8:cock
-9:hen
-10:ostrich, Struthio camelus
-11:brambling, Fringilla montifringilla
-12:goldfinch, Carduelis carduelis
-13:house finch, linnet, Carpodacus mexicanus
-14:junco, snowbird
-15:indigo bunting, indigo finch, indigo bird, Passerina cyanea
-16:robin, American robin, Turdus migratorius
-17:bulbul
-18:jay
-19:magpie
-20:chickadee
-21:water ouzel, dipper
-22:kite
-23:bald eagle, American eagle, Haliaeetus leucocephalus
-24:vulture
-25:great grey owl, great gray owl, Strix nebulosa
-26:European fire salamander, Salamandra salamandra
-27:common newt, Triturus vulgaris
-28:eft
-29:spotted salamander, Ambystoma maculatum
-30:axolotl, mud puppy, Ambystoma mexicanum
-31:bullfrog, Rana catesbeiana
-32:tree frog, tree-frog
-33:tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui
-34:loggerhead, loggerhead turtle, Caretta caretta
-35:leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea
-36:mud turtle
-37:terrapin
-38:box turtle, box tortoise
-39:banded gecko
-40:common iguana, iguana, Iguana iguana
-41:American chameleon, anole, Anolis carolinensis
-42:whiptail, whiptail lizard
-43:agama
-44:frilled lizard, Chlamydosaurus kingi
-45:alligator lizard
-46:Gila monster, Heloderma suspectum
-47:green lizard, Lacerta viridis
-48:African chameleon, Chamaeleo chamaeleon
-49:Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis
-50:African crocodile, Nile crocodile, Crocodylus niloticus
-51:American alligator, Alligator mississipiensis
-52:triceratops
-53:thunder snake, worm snake, Carphophis amoenus
-54:ringneck snake, ring-necked snake, ring snake
-55:hognose snake, puff adder, sand viper
-56:green snake, grass snake
-57:king snake, kingsnake
-58:garter snake, grass snake
-59:water snake
-60:vine snake
-61:night snake, Hypsiglena torquata
-62:boa constrictor, Constrictor constrictor
-63:rock python, rock snake, Python sebae
-64:Indian cobra, Naja naja
-65:green mamba
-66:sea snake
-67:horned viper, cerastes, sand viper, horned asp, Cerastes cornutus
-68:diamondback, diamondback rattlesnake, Crotalus adamanteus
-69:sidewinder, horned rattlesnake, Crotalus cerastes
-70:trilobite
-71:harvestman, daddy longlegs, Phalangium opilio
-72:scorpion
-73:black and gold garden spider, Argiope aurantia
-74:barn spider, Araneus cavaticus
-75:garden spider, Aranea diademata
-76:black widow, Latrodectus mactans
-77:tarantula
-78:wolf spider, hunting spider
-79:tick
-80:centipede
-81:black grouse
-82:ptarmigan
-83:ruffed grouse, partridge, Bonasa umbellus
-84:prairie chicken, prairie grouse, prairie fowl
-85:peacock
-86:quail
-87:partridge
-88:African grey, African gray, Psittacus erithacus
-89:macaw
-90:sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita
-91:lorikeet
-92:coucal
-93:bee eater
-94:hornbill
-95:hummingbird
-96:jacamar
-97:toucan
-98:drake
-99:red-breasted merganser, Mergus serrator
-100:goose
-101:black swan, Cygnus atratus
-102:tusker
-103:echidna, spiny anteater, anteater
-104:platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus
-105:wallaby, brush kangaroo
-106:koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus
-107:wombat
-108:jellyfish
-109:sea anemone, anemone
-110:brain coral
-111:flatworm, platyhelminth
-112:nematode, nematode worm, roundworm
-113:conch
-114:snail
-115:slug
-116:sea slug, nudibranch
-117:chiton, coat-of-mail shell, sea cradle, polyplacophore
-118:chambered nautilus, pearly nautilus, nautilus
-119:Dungeness crab, Cancer magister
-120:rock crab, Cancer irroratus
-121:fiddler crab
-122:king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica
-123:American lobster, Northern lobster, Maine lobster, Homarus americanus
-124:spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish
-125:crayfish, crawfish, crawdad, crawdaddy
-126:hermit crab
-127:isopod
-128:white stork, Ciconia ciconia
-129:black stork, Ciconia nigra
-130:spoonbill
-131:flamingo
-132:little blue heron, Egretta caerulea
-133:American egret, great white heron, Egretta albus
-134:bittern
-135:crane
-136:limpkin, Aramus pictus
-137:European gallinule, Porphyrio porphyrio
-138:American coot, marsh hen, mud hen, water hen, Fulica americana
-139:bustard
-140:ruddy turnstone, Arenaria interpres
-141:red-backed sandpiper, dunlin, Erolia alpina
-142:redshank, Tringa totanus
-143:dowitcher
-144:oystercatcher, oyster catcher
-145:pelican
-146:king penguin, Aptenodytes patagonica
-147:albatross, mollymawk
-148:grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus
-149:killer whale, killer, orca, grampus, sea wolf, Orcinus orca
-150:dugong, Dugong dugon
-151:sea lion
-152:Chihuahua
-153:Japanese spaniel
-154:Maltese dog, Maltese terrier, Maltese
-155:Pekinese, Pekingese, Peke
-156:Shih-Tzu
-157:Blenheim spaniel
-158:papillon
-159:toy terrier
-160:Rhodesian ridgeback
-161:Afghan hound, Afghan
-162:basset, basset hound
-163:beagle
-164:bloodhound, sleuthhound
-165:bluetick
-166:black-and-tan coonhound
-167:Walker hound, Walker foxhound
-168:English foxhound
-169:redbone
-170:borzoi, Russian wolfhound
-171:Irish wolfhound
-172:Italian greyhound
-173:whippet
-174:Ibizan hound, Ibizan Podenco
-175:Norwegian elkhound, elkhound
-176:otterhound, otter hound
-177:Saluki, gazelle hound
-178:Scottish deerhound, deerhound
-179:Weimaraner
-180:Staffordshire bullterrier, Staffordshire bull terrier
-181:American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier
-182:Bedlington terrier
-183:Border terrier
-184:Kerry blue terrier
-185:Irish terrier
-186:Norfolk terrier
-187:Norwich terrier
-188:Yorkshire terrier
-189:wire-haired fox terrier
-190:Lakeland terrier
-191:Sealyham terrier, Sealyham
-192:Airedale, Airedale terrier
-193:cairn, cairn terrier
-194:Australian terrier
-195:Dandie Dinmont, Dandie Dinmont terrier
-196:Boston bull, Boston terrier
-197:miniature schnauzer
-198:giant schnauzer
-199:standard schnauzer
-200:Scotch terrier, Scottish terrier, Scottie
-201:Tibetan terrier, chrysanthemum dog
-202:silky terrier, Sydney silky
-203:soft-coated wheaten terrier
-204:West Highland white terrier
-205:Lhasa, Lhasa apso
-206:flat-coated retriever
-207:curly-coated retriever
-208:golden retriever
-209:Labrador retriever
-210:Chesapeake Bay retriever
-211:German short-haired pointer
-212:vizsla, Hungarian pointer
-213:English setter
-214:Irish setter, red setter
-215:Gordon setter
-216:Brittany spaniel
-217:clumber, clumber spaniel
-218:English springer, English springer spaniel
-219:Welsh springer spaniel
-220:cocker spaniel, English cocker spaniel, cocker
-221:Sussex spaniel
-222:Irish water spaniel
-223:kuvasz
-224:schipperke
-225:groenendael
-226:malinois
-227:briard
-228:kelpie
-229:komondor
-230:Old English sheepdog, bobtail
-231:Shetland sheepdog, Shetland sheep dog, Shetland
-232:collie
-233:Border collie
-234:Bouvier des Flandres, Bouviers des Flandres
-235:Rottweiler
-236:German shepherd, German shepherd dog, German police dog, alsatian
-237:Doberman, Doberman pinscher
-238:miniature pinscher
-239:Greater Swiss Mountain dog
-240:Bernese mountain dog
-241:Appenzeller
-242:EntleBucher
-243:boxer
-244:bull mastiff
-245:Tibetan mastiff
-246:French bulldog
-247:Great Dane
-248:Saint Bernard, St Bernard
-249:Eskimo dog, husky
-250:malamute, malemute, Alaskan malamute
-251:Siberian husky
-252:dalmatian, coach dog, carriage dog
-253:affenpinscher, monkey pinscher, monkey dog
-254:basenji
-255:pug, pug-dog
-256:Leonberg
-257:Newfoundland, Newfoundland dog
-258:Great Pyrenees
-259:Samoyed, Samoyede
-260:Pomeranian
-261:chow, chow chow
-262:keeshond
-263:Brabancon griffon
-264:Pembroke, Pembroke Welsh corgi
-265:Cardigan, Cardigan Welsh corgi
-266:toy poodle
-267:miniature poodle
-268:standard poodle
-269:Mexican hairless
-270:timber wolf, grey wolf, gray wolf, Canis lupus
-271:white wolf, Arctic wolf, Canis lupus tundrarum
-272:red wolf, maned wolf, Canis rufus, Canis niger
-273:coyote, prairie wolf, brush wolf, Canis latrans
-274:dingo, warrigal, warragal, Canis dingo
+0：背景
+1:tench, 丁卡丁卡
+2：金鱼、鲫鱼
+3：大白鲨，white shark，man-eater，食人鲨，Carcharodon carcharias
+4：虎鲨，Galeocerdo cuvieri
+5：双髻鲨，双髻鲨
+6：电鳐，小龙虾，麻木鱼，鱼雷
+7：黄貂鱼
+8:公鸡
+9:母鸡
+10：鸵鸟、鸵鸟
+11：荆棘，Fringilla montifringilla
+12：金翅雀、Carduelis carduelis
+13：家雀、红雀、Carpodacus mexicanus
+14:junco, 雪鸟
+15：蓝鹀、蓝雀、蓝鸟、Passerina cyanea
+16：知更鸟，美国知更鸟，Turdus migratorius
+17:白头翁
+18：周杰伦
+19:喜鹊
+20:山雀
+21：水茴香，北斗七星
+22:风筝
+23：白头鹰，美国鹰，Haliaeetus leucocephalus
+24:秃鹰
+25:great grey owl, 大灰猫头鹰, Strix nebulosa
+26：欧洲火蝾螈，Salamandra salamandra
+27：普通蝾螈，Triturus vulgaris
+28:左
+29：斑点蝾螈、斑钝口螈
+30：蝾螈、泥小狗、墨西哥钝口螈
+31:牛蛙、牛蛙
+32:树蛙，树蛙
+33：尾蛙、铃蟾、肋蟾、尾蟾、Ascaphus trui
+34:红海龟、红海龟、Caretta caretta
+35：棱皮龟、棱皮龟、革质龟、Dermochelys coriacea
+36:泥龟
+37:水龟
+38：箱龟，箱龟
+39:带状壁虎
+40:common iguana, 鬣蜥, Iguana iguana
+41：美洲变色龙、anole、Anolis carolinensis
+42：鞭尾蜥，鞭尾蜥
+43:蜥蜴
+44:frilled 蜥蜴，Chlamydosaurus kingi
+45:鳄鱼蜥蜴
+46：希拉毒蜥、毒毒蛇毒
+47：绿蜥蜴，蝎虎座viridis
+48：非洲变色龙，Chamaeleo变色龙
+49：科莫多巨蜥、科莫多蜥蜴、龙蜥、巨蜥、Varanus komodoensis
+50：非洲鳄、尼罗鳄、尼罗鳄
+51：美洲短吻鳄，密西西比鳄鱼
+52:三角龙
+53：雷蛇，蠕虫蛇，Carphophis amoenus
+54:ringneck snake, 环颈蛇, ring snake
+55：猪鼻蛇、腹蛇、沙蝰
+56：青蛇，草蛇
+57：王蛇，王蛇
+58：吊带蛇，草蛇
+59:水蛇
+60:藤蛇
+61：夜蛇，Hypsiglena torquata
+62:boa constrictor, 大蟒蛇
+63：岩蟒、岩蛇、蟒蛇
+64：印度眼镜蛇、Naja naja
+65：绿曼巴
+66:海蛇
+67：角蛇、角蛇、沙蛇、角蛇、Cerastes cornutus
+68:响尾蛇、响尾蛇、响尾蛇
+69:响尾蛇、角响尾蛇、Crotalus cerastes
+70:三叶虫
+71:harvestman, 长腿爸爸, Phalangium opilio
+72:蝎子
+73：黑色和金色花园蜘蛛，Argiope aurantia
+74：谷仓蜘蛛，Araneus cavaticus
+75:花园蜘蛛, Aranea diademata
+76：黑寡妇，Latrodectus mactans
+77:狼蛛
+78：狼蛛、猎蛛
+79:勾选
+80后：蜈蚣
+81:黑松鸡
+82:雷鸟
+83:皱褶松鸡、鹧鸪、Bonasa umbellus
+84:草原鸡、草原松鸡、草原鸡
+85:孔雀
+86:鹌鹑
+87:鹧鸪
+88：African grey，非洲灰，Psittacus erithacus
+89:金刚鹦鹉
+90：硫磺凤头鹦鹉，Kakatoe galerita，Cacatua galerita
+91:吸蜜鹦鹉
+92:麻豆
+93:食蜂鸟
+94:犀鸟
+95:蜂鸟
+96:贾卡马尔
+97:巨嘴鸟
+98:德雷克
+99:红胸秋沙鸭
+100：鹅
+101：黑天鹅，天鹅座atratus
+102：獠牙
+103：针鼹，刺食蚁兽，食蚁兽
+104：鸭嘴兽，鸭嘴兽，鸭嘴兽，鸭嘴兽，鸭嘴兽
+105:沙袋鼠,袋鼠
+106：树袋熊，考拉熊，袋鼠熊，本土熊，灰熊
+107:袋熊
+108:水母
+109:海葵，海葵
+110:脑珊瑚
+111:扁虫，扁形动物
+112:nematode, 线虫, 蛔虫
+113:海螺
+114:蜗牛
+115:鼻涕虫
+116:海蛞蝓，海兔
+117:chiton, coat-of-mail shell, 海摇篮, polyplacophore
+118:带腔的鹦鹉螺，珍珠鹦鹉螺，鹦鹉螺
+119：珍宝蟹，巨蟹魔导师
+120:岩蟹
+121:招潮蟹
+122：帝王蟹，阿拉斯加蟹，阿拉斯加帝王蟹，阿拉斯加帝王蟹，Paralithodes camtschatica
+123：美国龙虾、北部龙虾、缅因州龙虾、美洲龙虾
+124:刺龙虾、龙虾、岩龙虾、小龙虾、小龙虾、海螯虾
+125:小龙虾，小龙虾，小龙虾，小龙虾
+126:寄居蟹
+127:等足动物
+128:白鹳、白鹳
+129:黑鹳、黑鹳
+130:琵鹭
+131:火烈鸟
+132:小蓝鹭, Egretta caerulea
+133：美洲白鹭、大白鹭、白鹭
+134:卤水
+135:起重机
+第136章
+137:欧洲鸡, Porphyrio porphyrio
+138:美国白头翁、沼泽母鸡、泥母鸡、水母鸡、美洲黑胡桃
+139:大鸨
+140:红转石，Arenaria interpres
+141:红背鹬
+142：红脚鹬，Tringa totanus
+143：女巫
+144:蛎鹬，蛎鹬
+145:鹈鹕
+146：王企鹅，Aptenodytes patagonica
+147:信天翁, 莫莉莫克
+148：灰鲸、灰鲸、魔鬼鱼、Eschrichtius gibbosus、Eschrichtius robustus
+149：虎鲸、逆戟鲸、鲸鱼、海狼、Orcinus orca
+150：儒艮，儒艮
+151:海狮
+152:吉娃娃
+153:日本猎犬
+154：马耳他犬，马耳他梗，马尔济斯犬
+155：北京人，北京人，北京人
+156:西施犬
+157:布伦海姆猎犬
+158:巴比龙
+159:玩具狗
+160:罗得西亚脊背犬
+161：阿富汗猎犬，阿富汗人
+162:巴吉度猎犬
+163:比格犬
+164：猎犬，猎犬
+165:蓝勾
+166:黑褐色猎浣熊犬
+167：沃克猎犬，沃克猎狐犬
+168:英国猎狐犬
+169:红骨
+170：猎狼犬，俄罗斯猎狼犬
+171:爱尔兰猎狼犬
+172:意大利灰狗
+173:惠比特犬
+174：伊比赞猎犬，伊比赞波登科
+175:挪威猎鹿犬，elkhound
+176:otterhound, 水獭猎犬
+177：萨路基，瞪羚猎犬
+178：苏格兰猎鹿犬，猎鹿犬
+179:威玛猎犬
+180:Staffordshire bullterrier，斯塔福德郡斗牛犬
+181：美国斯塔福德郡梗，斯塔福德郡梗，美国斗牛犬，斗牛犬
+182:贝灵顿梗
+183:边境梗
+184:嘉里蓝梗
+185:爱尔兰梗
+186:诺福克梗
+187:诺维奇梗
+188:约克夏犬
+189:硬毛猎狐梗
+190:莱克兰梗
+191:Sealyham terrier，锡利汉姆梗
+192：万能梗，万能梗
+193:石标，石标梗
+194:澳洲梗
+195：丹蒂丁蒙，丹蒂丁蒙梗
+196：波士顿公牛、波士顿梗
+197:迷你雪纳瑞
+198:巨型雪纳瑞
+199：标准雪纳瑞
+200：苏格兰梗，苏格兰梗，斯科蒂
+201：西藏梗、菊花犬
+202：丝毛梗，悉尼丝毛
+203:软毛小麦梗
+204：西部高地白梗
+205：拉萨，拉萨apso
+206:平毛猎犬
+207:卷毛猎犬
+208：金毛猎犬
+209:拉布拉多猎犬
+210:切萨皮克湾猎犬
+211：德国短毛教鞭
+212：vizsla，匈牙利指针
+213:英国二传手
+214：爱尔兰塞特犬，红色塞特犬
+215:戈登二传手
+216:布列塔尼猎犬
+217:clumber, 克伦伯猎犬
+218：英国史宾格犬，英国史宾格犬
+219:威尔士史宾格犬
+220:可卡犬，英国可卡犬，可卡犬
+221:苏塞克斯猎犬
+222:爱尔兰水猎犬
+223：库瓦斯
+第224话
+第225节
+226：玛利诺犬
+227：伯爵
+228：水怪
+229：可蒙多尔
+230:古英国牧羊犬，短尾
+231：Shetland sheepdog，设得兰群岛牧羊犬，Shetland
+232：牧羊犬
+233:边境牧羊犬
+234:Bouvier des Flandres, 布维埃德佛兰德斯
+235:罗威纳犬
+236：德国牧羊犬，德国牧羊犬，德国警犬，阿尔萨斯犬
+237：杜宾犬，杜宾犬
+238:迷你短毛猎犬
+239:大瑞士山地犬
+240:伯恩山犬
+241:阿彭策尔
+242：恩特布赫
+243：拳击手
+244:公牛獒
+245:藏獒
+246:法国斗牛犬
+247：大丹犬
+248：圣伯纳，圣伯纳
+249：爱斯基摩犬，哈士奇
+250:malamute, malamute, 阿拉斯加雪橇犬
+251:西伯利亚雪橇犬
+252：达尔马提亚狗，马车狗，马车狗
+253:affenpinscher, monkey pinscher, 猴狗
+第254话
+255:哈巴狗
+256：莱昂伯格
+257：纽芬兰，纽芬兰犬
+258：大比利牛斯山脉
+259：萨摩耶，萨摩耶
+260:博美犬
+261:松狮犬, 松狮犬
+262：长毛羊绒
+263：布拉班松狮鹫
+264：彭布罗克，彭布罗克威尔士柯基犬
+265:开衫，开衫威尔士柯基犬
+266:玩具贵宾犬
+267:迷你贵宾犬
+268:标准贵宾犬
+269:墨西哥无毛
+270：灰狼，灰狼，灰太狼，Canis lupus
+271：白狼，北极狼，Canis lupus tundrarum
+272：红狼，鬃狼，Canis rufus，Canis niger
+273：土狼，草原狼，丛林狼，Canis latrans
+274:野狗, warrigal, warragal, Canis dingo
 275:dhole, Cuon alpinus
-276:African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus
-277:hyena, hyaena
-278:red fox, Vulpes vulpes
-279:kit fox, Vulpes macrotis
-280:Arctic fox, white fox, Alopex lagopus
-281:grey fox, gray fox, Urocyon cinereoargenteus
-282:tabby, tabby cat
-283:tiger cat
-284:Persian cat
-285:Siamese cat, Siamese
-286:Egyptian cat
-287:cougar, puma, catamount, mountain lion, painter, panther, Felis concolor
-288:lynx, catamount
-289:leopard, Panthera pardus
-290:snow leopard, ounce, Panthera uncia
-291:jaguar, panther, Panthera onca, Felis onca
-292:lion, king of beasts, Panthera leo
-293:tiger, Panthera tigris
-294:cheetah, chetah, Acinonyx jubatus
-295:brown bear, bruin, Ursus arctos
-296:American black bear, black bear, Ursus americanus, Euarctos americanus
-297:ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus
-298:sloth bear, Melursus ursinus, Ursus ursinus
-299:mongoose
-300:meerkat, mierkat
-301:tiger beetle
-302:ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle
-303:ground beetle, carabid beetle
-304:long-horned beetle, longicorn, longicorn beetle
-305:leaf beetle, chrysomelid
-306:dung beetle
-307:rhinoceros beetle
-308:weevil
-309:fly
-310:bee
-311:ant, emmet, pismire
-312:grasshopper, hopper
-313:cricket
-314:walking stick, walkingstick, stick insect
-315:cockroach, roach
-316:mantis, mantid
-317:cicada, cicala
-318:leafhopper
-319:lacewing, lacewing fly
-320:dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk
-321:damselfly
-322:admiral
-323:ringlet, ringlet butterfly
-324:monarch, monarch butterfly, milkweed butterfly, Danaus plexippus
-325:cabbage butterfly
-326:sulphur butterfly, sulfur butterfly
-327:lycaenid, lycaenid butterfly
-328:starfish, sea star
-329:sea urchin
-330:sea cucumber, holothurian
-331:wood rabbit, cottontail, cottontail rabbit
-332:hare
-333:Angora, Angora rabbit
-334:hamster
-335:porcupine, hedgehog
-336:fox squirrel, eastern fox squirrel, Sciurus niger
-337:marmot
-338:beaver
-339:guinea pig, Cavia cobaya
-340:sorrel
-341:zebra
-342:hog, pig, grunter, squealer, Sus scrofa
-343:wild boar, boar, Sus scrofa
-344:warthog
-345:hippopotamus, hippo, river horse, Hippopotamus amphibius
-346:ox
-347:water buffalo, water ox, Asiatic buffalo, Bubalus bubalis
-348:bison
-349:ram, tup
-350:bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis
-351:ibex, Capra ibex
-352:hartebeest
-353:impala, Aepyceros melampus
-354:gazelle
-355:Arabian camel, dromedary, Camelus dromedarius
-356:llama
-357:weasel
-358:mink
-359:polecat, fitch, foulmart, foumart, Mustela putorius
-360:black-footed ferret, ferret, Mustela nigripes
-361:otter
-362:skunk, polecat, wood pussy
-363:badger
-364:armadillo
-365:three-toed sloth, ai, Bradypus tridactylus
-366:orangutan, orang, orangutang, Pongo pygmaeus
-367:gorilla, Gorilla gorilla
-368:chimpanzee, chimp, Pan troglodytes
-369:gibbon, Hylobates lar
-370:siamang, Hylobates syndactylus, Symphalangus syndactylus
-371:guenon, guenon monkey
-372:patas, hussar monkey, Erythrocebus patas
-373:baboon
-374:macaque
-375:langur
-376:colobus, colobus monkey
-377:proboscis monkey, Nasalis larvatus
-378:marmoset
-379:capuchin, ringtail, Cebus capucinus
-380:howler monkey, howler
-381:titi, titi monkey
-382:spider monkey, Ateles geoffroyi
-383:squirrel monkey, Saimiri sciureus
-384:Madagascar cat, ring-tailed lemur, Lemur catta
-385:indri, indris, Indri indri, Indri brevicaudatus
-386:Indian elephant, Elephas maximus
-387:African elephant, Loxodonta africana
-388:lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens
-389:giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca
-390:barracouta, snoek
-391:eel
-392:coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch
-393:rock beauty, Holocanthus tricolor
-394:anemone fish
-395:sturgeon
-396:gar, garfish, garpike, billfish, Lepisosteus osseus
-397:lionfish
-398:puffer, pufferfish, blowfish, globefish
-399:abacus
-400:abaya
-401:academic gown, academic robe, judge's robe
-402:accordion, piano accordion, squeeze box
-403:acoustic guitar
-404:aircraft carrier, carrier, flattop, attack aircraft carrier
-405:airliner
-406:airship, dirigible
-407:altar
-408:ambulance
-409:amphibian, amphibious vehicle
-410:analog clock
-411:apiary, bee house
-412:apron
-413:ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
-414:assault rifle, assault gun
-415:backpack, back pack, knapsack, packsack, rucksack, haversack
-416:bakery, bakeshop, bakehouse
-417:balance beam, beam
-418:balloon
-419:ballpoint, ballpoint pen, ballpen, Biro
-420:Band Aid
-421:banjo
-422:bannister, banister, balustrade, balusters, handrail
-423:barbell
-424:barber chair
-425:barbershop
-426:barn
-427:barometer
-428:barrel, cask
-429:barrow, garden cart, lawn cart, wheelbarrow
-430:baseball
-431:basketball
-432:bassinet
-433:bassoon
-434:bathing cap, swimming cap
-435:bath towel
-436:bathtub, bathing tub, bath, tub
-437:beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
-438:beacon, lighthouse, beacon light, pharos
-439:beaker
-440:bearskin, busby, shako
-441:beer bottle
-442:beer glass
-443:bell cote, bell cot
-444:bib
-445:bicycle-built-for-two, tandem bicycle, tandem
-446:bikini, two-piece
-447:binder, ring-binder
-448:binoculars, field glasses, opera glasses
-449:birdhouse
-450:boathouse
-451:bobsled, bobsleigh, bob
-452:bolo tie, bolo, bola tie, bola
-453:bonnet, poke bonnet
-454:bookcase
-455:bookshop, bookstore, bookstall
-456:bottlecap
-457:bow
-458:bow tie, bow-tie, bowtie
-459:brass, memorial tablet, plaque
-460:brassiere, bra, bandeau
-461:breakwater, groin, groyne, mole, bulwark, seawall, jetty
-462:breastplate, aegis, egis
-463:broom
-464:bucket, pail
-465:buckle
-466:bulletproof vest
-467:bullet train, bullet
-468:butcher shop, meat market
-469:cab, hack, taxi, taxicab
-470:caldron, cauldron
-471:candle, taper, wax light
-472:cannon
-473:canoe
-474:can opener, tin opener
-475:cardigan
-476:car mirror
-477:carousel, carrousel, merry-go-round, roundabout, whirligig
-478:carpenter's kit, tool kit
-479:carton
-480:car wheel
-481:cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM
-482:cassette
-483:cassette player
-484:castle
-485:catamaran
-486:CD player
-487:cello, violoncello
-488:cellular telephone, cellular phone, cellphone, cell, mobile phone
-489:chain
-490:chainlink fence
-491:chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour
-492:chain saw, chainsaw
-493:chest
-494:chiffonier, commode
-495:chime, bell, gong
-496:china cabinet, china closet
-497:Christmas stocking
-498:church, church building
-499:cinema, movie theater, movie theatre, movie house, picture palace
-500:cleaver, meat cleaver, chopper
-501:cliff dwelling
-502:cloak
-503:clog, geta, patten, sabot
-504:cocktail shaker
-505:coffee mug
-506:coffeepot
-507:coil, spiral, volute, whorl, helix
-508:combination lock
-509:computer keyboard, keypad
-510:confectionery, confectionary, candy store
-511:container ship, containership, container vessel
-512:convertible
-513:corkscrew, bottle screw
-514:cornet, horn, trumpet, trump
-515:cowboy boot
-516:cowboy hat, ten-gallon hat
-517:cradle
-518:crane
-519:crash helmet
-520:crate
-521:crib, cot
-522:Crock Pot
-523:croquet ball
-524:crutch
-525:cuirass
-526:dam, dike, dyke
-527:desk
-528:desktop computer
-529:dial telephone, dial phone
-530:diaper, nappy, napkin
-531:digital clock
-532:digital watch
-533:dining table, board
-534:dishrag, dishcloth
-535:dishwasher, dish washer, dishwashing machine
-536:disk brake, disc brake
-537:dock, dockage, docking facility
-538:dogsled, dog sled, dog sleigh
-539:dome
-540:doormat, welcome mat
-541:drilling platform, offshore rig
-542:drum, membranophone, tympan
-543:drumstick
-544:dumbbell
-545:Dutch oven
-546:electric fan, blower
-547:electric guitar
-548:electric locomotive
-549:entertainment center
-550:envelope
-551:espresso maker
-552:face powder
-553:feather boa, boa
-554:file, file cabinet, filing cabinet
-555:fireboat
-556:fire engine, fire truck
-557:fire screen, fireguard
-558:flagpole, flagstaff
-559:flute, transverse flute
-560:folding chair
-561:football helmet
-562:forklift
-563:fountain
-564:fountain pen
-565:four-poster
-566:freight car
-567:French horn, horn
-568:frying pan, frypan, skillet
-569:fur coat
-570:garbage truck, dustcart
-571:gasmask, respirator, gas helmet
-572:gas pump, gasoline pump, petrol pump, island dispenser
-573:goblet
-574:go-kart
-575:golf ball
-576:golfcart, golf cart
-577:gondola
-578:gong, tam-tam
-579:gown
-580:grand piano, grand
-581:greenhouse, nursery, glasshouse
-582:grille, radiator grille
-583:grocery store, grocery, food market, market
-584:guillotine
-585:hair slide
-586:hair spray
-587:half track
-588:hammer
-589:hamper
-590:hand blower, blow dryer, blow drier, hair dryer, hair drier
-591:hand-held computer, hand-held microcomputer
-592:handkerchief, hankie, hanky, hankey
-593:hard disc, hard disk, fixed disk
-594:harmonica, mouth organ, harp, mouth harp
-595:harp
-596:harvester, reaper
-597:hatchet
-598:holster
-599:home theater, home theatre
-600:honeycomb
-601:hook, claw
-602:hoopskirt, crinoline
-603:horizontal bar, high bar
-604:horse cart, horse-cart
-605:hourglass
-606:iPod
-607:iron, smoothing iron
-608:jack-o'-lantern
-609:jean, blue jean, denim
-610:jeep, landrover
-611:jersey, T-shirt, tee shirt
-612:jigsaw puzzle
-613:jinrikisha, ricksha, rickshaw
-614:joystick
-615:kimono
-616:knee pad
-617:knot
-618:lab coat, laboratory coat
-619:ladle
-620:lampshade, lamp shade
-621:laptop, laptop computer
-622:lawn mower, mower
-623:lens cap, lens cover
-624:letter opener, paper knife, paperknife
-625:library
-626:lifeboat
-627:lighter, light, igniter, ignitor
-628:limousine, limo
-629:liner, ocean liner
-630:lipstick, lip rouge
-631:Loafer
-632:lotion
-633:loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
-634:loupe, jeweler's loupe
-635:lumbermill, sawmill
-636:magnetic compass
-637:mailbag, postbag
-638:mailbox, letter box
-639:maillot
-640:maillot, tank suit
-641:manhole cover
-642:maraca
-643:marimba, xylophone
-644:mask
-645:matchstick
-646:maypole
-647:maze, labyrinth
-648:measuring cup
-649:medicine chest, medicine cabinet
-650:megalith, megalithic structure
-651:microphone, mike
-652:microwave, microwave oven
-653:military uniform
-654:milk can
-655:minibus
-656:miniskirt, mini
-657:minivan
-658:missile
-659:mitten
-660:mixing bowl
-661:mobile home, manufactured home
-662:Model T
-663:modem
-664:monastery
-665:monitor
-666:moped
-667:mortar
-668:mortarboard
-669:mosque
-670:mosquito net
-671:motor scooter, scooter
-672:mountain bike, all-terrain bike, off-roader
-673:mountain tent
-674:mouse, computer mouse
-675:mousetrap
-676:moving van
-677:muzzle
-678:nail
-679:neck brace
-680:necklace
-681:nipple
-682:notebook, notebook computer
-683:obelisk
-684:oboe, hautboy, hautbois
-685:ocarina, sweet potato
-686:odometer, hodometer, mileometer, milometer
-687:oil filter
-688:organ, pipe organ
-689:oscilloscope, scope, cathode-ray oscilloscope, CRO
-690:overskirt
-691:oxcart
-692:oxygen mask
-693:packet
-694:paddle, boat paddle
-695:paddlewheel, paddle wheel
-696:padlock
-697:paintbrush
-698:pajama, pyjama, pj's, jammies
-699:palace
-700:panpipe, pandean pipe, syrinx
-701:paper towel
-702:parachute, chute
-703:parallel bars, bars
-704:park bench
-705:parking meter
-706:passenger car, coach, carriage
-707:patio, terrace
-708:pay-phone, pay-station
-709:pedestal, plinth, footstall
-710:pencil box, pencil case
-711:pencil sharpener
-712:perfume, essence
-713:Petri dish
-714:photocopier
-715:pick, plectrum, plectron
+276：非洲猎犬、鬣狗、开普猎犬、Lycaon pictus
+277：鬣狗，鬣狗
+278：赤狐，狐狸
+279：小狐狸，Vulpes macrotis
+280:北极狐、白狐、羚羊
+281:灰狐, 灰狐, Urocyon cinereoargenteus
+282：虎斑猫，虎斑猫
+283:虎猫
+284:波斯猫
+285：暹罗猫，暹罗猫
+286:埃及猫
+287：美洲狮，美洲狮，美洲豹，山狮，画家，黑豹，猫科动物
+288：山猫，猫山猫
+289：豹纹、豹纹棕
+290:雪豹、盎司、黑豹
+291:美洲豹、黑豹、黑豹、黑猫
+292：狮子，百兽之王，那只豹
+293：虎，虎豹
+294:猎豹, 猎豹, Acinonyx jubatus
+295:棕熊, 棕熊, Ursus arctos
+296：美洲黑熊、黑熊、Ursus americanus、Euarctos americanus
+297：冰熊，北极熊，Ursus maritimus，Thalarctos maritimus
+298：懒熊，Melursus ursinus，Ursus ursinus
+299:猫鼬
+300:猫鼬，猫鼬
+301:虎甲虫
+302：瓢虫，瓢虫，瓢虫，瓢虫，瓢虫甲虫
+303:地面甲虫，步甲虫
+304:长角甲虫, longicorn, longicorn beetle
+305:叶甲虫，叶甲虫
+306:蜣螂
+307:犀牛甲虫
+308:象鼻虫
+309：飞
+310:蜜蜂
+311:蚂蚁, 埃米特, pismire
+312：蚱蜢，料斗
+313:板球
+314：手杖，手杖，竹节虫
+315:蟑螂，蟑螂
+316：螳螂妖，螳螂妖
+317：蝉，蝉
+318:叶蝉
+319：草蛉，草蛉飞
+320：蜻蜓、织补针、恶魔织补针、缝纫针、喂蛇器、蛇医、蚊鹰、斯基特鹰
+321:豆娘
+322：海军上将
+323:小环，小环蝴蝶
+324:帝王蝶、帝王蝶、马利筋蝴蝶、黑斑蝶
+325:卷心菜蝴蝶
+326:硫磺蝴蝶，硫磺蝴蝶
+327:lycaenid, lycaenid 蝴蝶
+328：海星，海星
+329:海胆
+330:海参、海参
+331:木兔，棉尾兔，棉尾兔
+332：野兔
+333：安哥拉兔，安哥拉兔
+334：仓鼠
+335:豪猪，刺猬
+336：狐松鼠，东部狐松鼠，黑松鼠
+337：土拨鼠
+338:海狸
+339:豚鼠，豚鼠
+340:栗色
+341:斑马
+342:hog, 猪, grunter, squealer, Sus scrofa
+343:野猪、野猪、野猪
+344：疣猪
+345:hippopotamus, 河马, 河马, Hippopotamus amphibius
+346：牛
+347:水牛、水牛、亚洲水牛、水牛
+348:野牛
+349：撞击，撞击
+350：大角羊，大角羊，cimarron，落基山大角羊，落基山羊，Ovis canadensis
+351:野山羊, 山羊野山羊
+352：羚羊
+353:黑斑羚，黑斑羚
+354:瞪羚
+355:阿拉伯骆驼，单峰骆驼，Camelus dromedarius
+356：美洲驼
+357：黄鼠狼
+358:貂皮
+359:臭鼬, fitch, foulmart, foumart, Mustela putorius
+360:黑足鼬、鼬、Mustela nigripes
+361：水獭
+362:臭鼬，臭鼬，木猫
+363:獾
+364:犰狳
+365：三趾树懒，ai，Bradypus tridactylus
+366:猩猩, orang, orangutang, Pongo pygmaeus
+367：大猩猩，大猩猩大猩猩
+368:chimpanzee, 黑猩猩, Pan troglodytes
+369：长臂猿，长臂猿
+370:siamang, Hylobates syndactylus, 合趾长臂猿
+第371话
+372:patas, 轻骑兵猴, Erythrocebus patas
+373:狒狒
+374:猕猴
+375:叶猴
+376：疣猴，疣猴
+377:长鼻猴
+378:狨猴
+379：卷尾猴、环尾猴、Cebus capucinus
+380:吼猴，吼猴
+381：蒂蒂，蒂蒂猴子
+382：蜘蛛猴，Ateles geoffroyi
+383：松鼠猴，Saimiri sciureus
+384：马达加斯加猫、环尾狐猴、狐猴猫
+385:indri, indris, Indri indri, 印度短尾印度
+386:印度象，大象
+387:非洲象，非洲象
+388：小熊猫，小熊猫，大熊猫，熊猫，猫熊，Ailurus fulgens
+389：大熊猫，大熊猫，大熊猫，浣熊，Ailuropoda melanoleuca
+390:梭子鱼, snoek
+第391话
+392:coho, cohoe, coho salmon, blue jack, 银鲑鱼，Oncorhynchus kisutch
+393：岩美人，三色荷花
+394:海葵鱼
+395:鲟鱼
+396:gar, garfish, garpike, 长嘴鱼, Lepisosteus osseus
+397:狮子鱼
+398:河豚、河豚、河豚、河豚
+399:算盘
+400:长袍
+401：学士袍，学士袍，法官袍
+402：手风琴，钢琴手风琴，挤压盒
+403：原声吉他
+404:aircraft carrier, carrier, flattop, attack 航母
+405：客机
+406：飞艇，飞艇
+407：祭坛
+408：救护车
+409:amphibian,两栖车辆
+410:模拟时钟
+411：养蜂场，蜂房
+412：围裙
+413:ashcan, 垃圾桶, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, 垃圾桶, 垃圾桶
+414：突击步枪，突击枪
+415:backpack, back pack, knapsack, packsack, rucksack, haversack 这两个
+416:面包店, 面包店, 面包房
+417:平衡木，平衡木
+418:气球
+419：圆珠笔，圆珠笔，圆珠笔，圆珠笔
+420：创可贴
+421：班卓琴
+422:bannister, 栏杆, 栏杆, 栏杆, 扶手
+423:杠铃
+424:理发椅
+425:理发店
+426：谷仓
+427:晴雨表
+428：桶，木桶
+429：手推车，花园手推车，草坪手推车，手推车
+430:棒球
+431：篮球
+432:摇篮
+433：巴松管
+434：泳帽、泳帽
+435:浴巾
+436：浴缸，浴缸，浴缸，浴缸
+437：沙滩车，旅行车，旅行车，旅行车，沙滩车，旅行车，旅行车
+438：信标，灯塔，信标灯，灯塔
+439:烧杯
+440:熊皮、巴斯比、军帽
+441:啤酒瓶
+442:啤酒杯
+443:bell cote, 贝尔床
+444：围兜
+445:bicycle-built-for-two, tandem bicycle, 双人自行车
+446:比基尼，两件套
+447:活页夹，活页夹
+448:双筒望远镜、外场镜、歌剧镜
+449：鸟舍
+450:船库
+451:有舵雪橇，有舵雪橇，鲍勃
+452：bolo tie，bolo，bola tie，bola
+453：帽子，戳帽子
+454:书架
+455：书店，书店，书摊
+456:瓶盖
+457：弓
+458：领结，领结，领结
+459:黄铜、牌位、牌匾
+460:文胸、文胸、抹胸
+461:防波堤、腹股沟、防波堤、鼹鼠、堡垒、海堤、防波堤
+462：胸甲，神盾，神盾
+463：扫帚
+464：桶，桶
+465:带扣
+466：防弹背心
+467：子弹头列车，子弹头
+468：肉店，肉类市场
+469:cab, hack, taxi, 出租车
+470:大锅，大锅
+471:蜡烛、蜡烛、蜡灯
+472：加农炮
+473：独木舟
+474:开罐器，开罐器
+475:开衫
+476:车镜
+477：旋转木马，旋转木马，旋转木马，回旋处，旋转木马
+478:木工工具包，工具包
+479:纸箱
+480:车轮
+481：提款机，提款机，自动取款机，自动柜员机，自动取款机，自动取款机，ATM
+482:磁带
+483:卡带播放器
+484：城堡
+485:双体船
+486:CD播放器
+487:大提琴, 大提琴
+488:cellular telephone, cellular phone, cellphone, 移动电话
+489：链条
+490:勾花围栏
+491:chain mail, ring mail, mail, chain armor, chain armour, ring armor, 环甲
+492：链锯，链锯
+493：胸部
+494:抽屉柜，马桶
+495:编钟、钟、锣
+496：瓷柜，瓷柜
+497:圣诞袜
+498：教堂，教堂建筑
+499:cinema, 电影院, 电影院, 电影院, 影城
+500：切肉刀，切肉刀，切肉刀
+501：悬崖居所
+502:斗篷
+503:木屐、木屐、木屐、木屐
+504:调酒器
+505:咖啡杯
+506:咖啡壶
+507：线圈，螺线，蜗壳，螺纹，螺旋线
+508:密码锁
+509：电脑键盘，小键盘
+510：糖果店，糖果店，糖果店
+511：集装箱船，集装箱船，集装箱船
+512：敞篷车
+513：开瓶器，开瓶器螺丝
+514：短号，号角，喇叭，喇叭
+515:牛仔靴
+516：牛仔帽，十加仑帽
+517：摇篮
+518:起重机
+519：防撞头盔
+520:板条箱
+521:婴儿床
+522：瓦罐
+523:槌球
+524:拐杖
+525：胸甲
+526:大坝，堤坝，堤坝
+527：办公桌
+528：台式电脑
+529：拨电话，拨电话
+530:尿布、尿布、餐巾纸
+531:数字时钟
+532：数字手表
+533：餐桌、餐盘
+534:抹布，抹布
+535：洗碗机，洗碗机，洗碗机
+536：盘式制动器，盘式制动器
+537:dock, dockage, 对接设施
+538：狗拉雪橇，狗拉雪橇，狗拉雪橇
+539：穹顶
+540:门垫，迎宾垫
+541：钻井平台、海上钻井平台
+542：鼓，吹膜机，鼓膜
+543：鼓槌
+544:哑铃
+545:荷兰烤炉
+546:电风扇、鼓风机
+547:电吉他
+548:电力机车
+549:娱乐中心
+550:信封
+551:浓缩咖啡机
+552:蜜粉
+553：羽毛蟒蛇，蟒蛇
+554：文件，文件柜，文件柜
+555:消防船
+556：消防车，消防车
+557：防火屏，防火板
+558：旗杆，旗杆
+559：长笛，横笛
+560:折叠椅
+561:橄榄球头盔
+562:叉车
+563：喷泉
+564:钢笔
+565:四海报
+566:货车
+567：圆号，圆号
+568:煎锅、煎锅、平底锅
+569:皮草大衣
+570：垃圾车，垃圾车
+571：防毒面具，呼吸器，防毒头盔
+572:gas pump, gasoline pump, petrol pump, island 加油机
+573：高脚杯
+574：卡丁车
+575:高尔夫球
+576:golfcart, 高尔夫球车
+577：缆车
+578：锣，担担
+579：礼服
+580：三角钢琴，三角钢琴
+581:温室, 苗圃, 温室
+582：格栅，散热器格栅
+583:杂货店, 杂货店, 食品市场, 市场
+584：断头台
+585:发夹
+586:发胶
+587:半轨
+588:锤子
+589:礼篮
+590：吹风机，吹风机，吹风机，吹风机，电吹风
+591：掌上电脑，掌上微型计算机
+592：手帕，手帕，手帕，手帕
+593：硬盘，硬盘，固定磁盘
+594：口琴，口琴，竖琴，口琴
+595：竖琴
+596：收割机，收割机
+597：斧头
+598:皮套
+599：家庭影院，家庭影院
+600:蜂巢
+601:钩爪
+602: 箍裙, 衬裙
+603：单杠，高杠
+604:马车，马车
+605:沙漏
+606：iPod
+607：熨斗，熨斗
+608:南瓜灯
+609：牛仔裤，蓝色牛仔裤，牛仔布
+610：吉普车、路虎
+611：球衣、T恤、T恤
+612:拼图游戏
+613:jinrikisha，人力车，人力车
+614:操纵杆
+615:和服
+616:护膝
+617：结
+618：实验室外套，实验室外套
+619:钢包
+620:灯罩，灯罩
+621：膝上型电脑，手提电脑
+622：割草机，割草机
+623：镜头盖，镜头盖
+624：开信刀，裁纸刀，裁纸刀
+625:图书馆
+626:救生艇
+627：打火机，灯，点火器，点火器
+628：豪华轿车，豪华轿车
+629：班轮，远洋班轮
+630：口红、唇膏
+631:乐福鞋
+632:乳液
+633：扬声器，扬声器，扬声器单元，扬声器系统，扬声器系统
+634:放大镜，珠宝商的放大镜
+635：伐木厂，锯木厂
+636:磁罗盘
+637：邮袋，邮袋
+638:信箱，信箱
+第639话
+640:maillot, 坦克装
+641:窨井盖
+642：马拉卡
+643：马林巴，木琴
+644：面具
+645:火柴棒
+646：五月柱
+647:迷宫，迷宫
+648:量杯
+649：药箱，药柜
+650：巨石，巨石结构
+651：麦克风，麦克风
+652：微波炉，微波炉
+653：军装
+654:牛奶罐
+655:小巴
+656：迷你裙，迷你
+657:小型货车
+658：导弹
+659：连指手套
+660:搅拌碗
+661：移动房屋，活动房屋
+662：T型
+663:调制解调器
+664:修道院
+665：监控
+666:轻便摩托车
+667:迫击炮
+668:砂浆板
+669：清真寺
+670:蚊帐
+671:motor scooter, 踏板车
+672：山地车、全地形车、越野车
+673:山地帐篷
+674：鼠标，电脑鼠标
+675:捕鼠器
+676：搬运车
+677:枪口
+678：钉子
+679:颈托
+680:项链
+681:乳头
+682：笔记本，笔记本电脑
+683：方尖碑
+684:双簧管, hautboy, hautbois
+685:陶笛，红薯
+686:odometer,hodometer,mileometer,英里计
+687:机油滤清器
+688：风琴，管风琴
+689：示波器，示波器，阴极射线示波器，CRO
+690:罩裙
+691:牛车
+692：氧气面罩
+693:数据包
+694:桨，船桨
+695:paddlewheel, 明轮
+696:挂锁
+697:画笔
+698:睡衣、睡衣、睡衣、睡衣
+699:宫殿
+700：排箫，潘第安管，syrinx
+701：纸巾
+702：降落伞，降落伞
+703：双杠，杠
+704:公园长椅
+705：停车计时器
+706：客车、客车、马车
+707:天井、露台
+708：付费电话，付费站
+709:基座，底座，脚凳
+710：铅笔盒，铅笔盒
+711:卷笔刀
+712:香水、香精
+713:培养皿
+714:复印机
+715：拨片，拨片，拨片
 716:pickelhaube
-717:picket fence, paling
-718:pickup, pickup truck
-719:pier
-720:piggy bank, penny bank
-721:pill bottle
-722:pillow
-723:ping-pong ball
-724:pinwheel
-725:pirate, pirate ship
-726:pitcher, ewer
-727:plane, carpenter's plane, woodworking plane
-728:planetarium
-729:plastic bag
-730:plate rack
-731:plow, plough
-732:plunger, plumber's helper
-733:Polaroid camera, Polaroid Land camera
-734:pole
-735:police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
-736:poncho
-737:pool table, billiard table, snooker table
-738:pop bottle, soda bottle
-739:pot, flowerpot
-740:potter's wheel
-741:power drill
-742:prayer rug, prayer mat
-743:printer
-744:prison, prison house
-745:projectile, missile
-746:projector
-747:puck, hockey puck
-748:punching bag, punch bag, punching ball, punchball
-749:purse
-750:quill, quill pen
-751:quilt, comforter, comfort, puff
-752:racer, race car, racing car
-753:racket, racquet
-754:radiator
-755:radio, wireless
-756:radio telescope, radio reflector
-757:rain barrel
-758:recreational vehicle, RV, R.V.
-759:reel
-760:reflex camera
-761:refrigerator, icebox
-762:remote control, remote
-763:restaurant, eating house, eating place, eatery
-764:revolver, six-gun, six-shooter
-765:rifle
-766:rocking chair, rocker
-767:rotisserie
-768:rubber eraser, rubber, pencil eraser
-769:rugby ball
-770:rule, ruler
-771:running shoe
-772:safe
-773:safety pin
-774:saltshaker, salt shaker
-775:sandal
-776:sarong
-777:sax, saxophone
-778:scabbard
-779:scale, weighing machine
-780:school bus
-781:schooner
-782:scoreboard
-783:screen, CRT screen
-784:screw
-785:screwdriver
-786:seat belt, seatbelt
-787:sewing machine
-788:shield, buckler
-789:shoe shop, shoe-shop, shoe store
-790:shoji
-791:shopping basket
-792:shopping cart
-793:shovel
-794:shower cap
-795:shower curtain
-796:ski
-797:ski mask
-798:sleeping bag
-799:slide rule, slipstick
-800:sliding door
-801:slot, one-armed bandit
-802:snorkel
-803:snowmobile
-804:snowplow, snowplough
-805:soap dispenser
-806:soccer ball
-807:sock
-808:solar dish, solar collector, solar furnace
-809:sombrero
-810:soup bowl
-811:space bar
-812:space heater
-813:space shuttle
-814:spatula
-815:speedboat
-816:spider web, spider's web
-817:spindle
-818:sports car, sport car
-819:spotlight, spot
-820:stage
-821:steam locomotive
-822:steel arch bridge
-823:steel drum
-824:stethoscope
-825:stole
-826:stone wall
-827:stopwatch, stop watch
-828:stove
-829:strainer
-830:streetcar, tram, tramcar, trolley, trolley car
-831:stretcher
-832:studio couch, day bed
-833:stupa, tope
-834:submarine, pigboat, sub, U-boat
-835:suit, suit of clothes
-836:sundial
-837:sunglass
-838:sunglasses, dark glasses, shades
-839:sunscreen, sunblock, sun blocker
-840:suspension bridge
-841:swab, swob, mop
-842:sweatshirt
-843:swimming trunks, bathing trunks
-844:swing
-845:switch, electric switch, electrical switch
-846:syringe
-847:table lamp
-848:tank, army tank, armored combat vehicle, armoured combat vehicle
-849:tape player
-850:teapot
-851:teddy, teddy bear
-852:television, television system
-853:tennis ball
-854:thatch, thatched roof
-855:theater curtain, theatre curtain
-856:thimble
-857:thresher, thrasher, threshing machine
-858:throne
-859:tile roof
-860:toaster
-861:tobacco shop, tobacconist shop, tobacconist
-862:toilet seat
-863:torch
-864:totem pole
-865:tow truck, tow car, wrecker
-866:toyshop
-867:tractor
-868:trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi
-869:tray
-870:trench coat
-871:tricycle, trike, velocipede
-872:trimaran
-873:tripod
-874:triumphal arch
-875:trolleybus, trolley coach, trackless trolley
-876:trombone
-877:tub, vat
-878:turnstile
-879:typewriter keyboard
-880:umbrella
-881:unicycle, monocycle
-882:upright, upright piano
-883:vacuum, vacuum cleaner
-884:vase
-885:vault
-886:velvet
-887:vending machine
-888:vestment
-889:viaduct
-890:violin, fiddle
-891:volleyball
-892:waffle iron
-893:wall clock
-894:wallet, billfold, notecase, pocketbook
-895:wardrobe, closet, press
-896:warplane, military plane
-897:washbasin, handbasin, washbowl, lavabo, wash-hand basin
-898:washer, automatic washer, washing machine
-899:water bottle
-900:water jug
-901:water tower
-902:whiskey jug
-903:whistle
-904:wig
-905:window screen
-906:window shade
-907:Windsor tie
-908:wine bottle
-909:wing
-910:wok
-911:wooden spoon
-912:wool, woolen, woollen
-913:worm fence, snake fence, snake-rail fence, Virginia fence
-914:wreck
-915:yawl
-916:yurt
-917:web site, website, internet site, site
-918:comic book
-919:crossword puzzle, crossword
-920:street sign
-921:traffic light, traffic signal, stoplight
-922:book jacket, dust cover, dust jacket, dust wrapper
-923:menu
-924:plate
-925:guacamole
-926:consomme
-927:hot pot, hotpot
-928:trifle
-929:ice cream, icecream
-930:ice lolly, lolly, lollipop, popsicle
-931:French loaf
-932:bagel, beigel
-933:pretzel
-934:cheeseburger
-935:hotdog, hot dog, red hot
-936:mashed potato
-937:head cabbage
-938:broccoli
-939:cauliflower
-940:zucchini, courgette
-941:spaghetti squash
-942:acorn squash
-943:butternut squash
-944:cucumber, cuke
-945:artichoke, globe artichoke
-946:bell pepper
-947:cardoon
-948:mushroom
-949:Granny Smith
-950:strawberry
-951:orange
-952:lemon
-953:fig
-954:pineapple, ananas
-955:banana
-956:jackfruit, jak, jack
-957:custard apple
-958:pomegranate
-959:hay
-960:carbonara
-961:chocolate sauce, chocolate syrup
-962:dough
-963:meat loaf, meatloaf
-964:pizza, pizza pie
-965:potpie
-966:burrito
-967:red wine
-968:espresso
-969:cup
-970:eggnog
-971:alp
-972:bubble
-973:cliff, drop, drop-off
-974:coral reef
-975:geyser
-976:lakeside, lakeshore
-977:promontory, headland, head, foreland
-978:sandbar, sand bar
-979:seashore, coast, seacoast, sea-coast
-980:valley, vale
-981:volcano
-982:ballplayer, baseball player
-983:groom, bridegroom
-984:scuba diver
-985:rapeseed
-986:daisy
-987:yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum
-988:corn
-989:acorn
-990:hip, rose hip, rosehip
-991:buckeye, horse chestnut, conker
-992:coral fungus
-993:agaric
-994:gyromitra
-995:stinkhorn, carrion fungus
-996:earthstar
-997:hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa
-998:bolete
-999:ear, spike, capitulum
-1000:toilet tissue, toilet paper, bathroom tissue
+717:栅栏, paling
+718:pickup, 皮卡车
+719：码头
+720:存钱罐，便士存钱罐
+721:药瓶
+722：抱枕
+723：乒乓球
+724：风车
+725：海盗，海盗船
+726:水罐，水壶
+727:plane, carpenter's plane, 木工刨
+728：天文馆
+729:塑料袋
+730:盘架
+731：犁，犁
+732：柱塞，水管工的帮手
+733：宝丽来相机，宝丽来陆地相机
+734：极点
+735：警车，警车，水田车，巡逻车，货车，黑色玛丽亚
+736:雨披
+737：台球桌、台球桌、台球桌
+738:汽水瓶，汽水瓶
+739:花盆，花盆
+740:陶轮
+741:电钻
+742:祈祷毯，祈祷垫
+743:打印机
+744：监狱，监狱
+745:射弹, 导弹
+746:投影仪
+747：冰球，冰球
+748：出气筒，出气筒，出气筒，出气筒
+749:钱包
+750:鹅毛笔
+751：被子，被子，舒适，粉扑
+752:racer, race car, 赛车
+753:球拍，球拍
+754:散热器
+755：收音机，无线
+756：射电望远镜，射电反射镜
+757:雨桶
+758：休闲车，房车，房车
+759：卷轴
+760:反光相机
+761：冰箱，冰柜
+762：遥控，遥控
+763:restaurant, eating house, 吃饭的地方, 餐馆
+764：左轮手枪，六枪，六射手
+765：步枪
+766:摇椅，摇椅
+767:烤肉店
+768：橡皮擦，橡皮，铅笔橡皮
+769:橄榄球
+770：规则，统治者
+771:跑鞋
+772：安全
+773:安全别针
+774:盐瓶，盐瓶
+775:凉鞋
+776:纱笼
+777：萨克斯，萨克斯管
+778：刀鞘
+779：称重机
+780:校车
+781:纵帆船
+782：记分牌
+783：屏幕，CRT屏幕
+784:螺丝
+785:螺丝刀
+786：安全带，安全带
+787：缝纫机
+788：盾牌，圆盾
+789:鞋店，鞋店，鞋店
+790:商事
+791:购物篮
+792:购物车
+793:铲子
+794:浴帽
+795:浴帘
+796:滑雪板
+797:滑雪面具
+798:睡袋
+799：计算尺，滑尺
+800：推拉门
+801：槽，独臂强盗
+802:通气管
+803:雪地摩托
+804：扫雪机，扫雪机
+805:皂液器
+806:足球
+807:袜子
+808：太阳能碟、太阳能集热器、太阳能炉
+809:阔边帽
+810:汤碗
+811：空格键
+812:空间加热器
+813：航天飞机
+814:抹刀
+815:快艇
+816:蜘蛛网，蜘蛛网
+817:主轴
+818：跑车，跑车
+819：聚光灯，聚光灯
+820:舞台
+821:蒸汽机车
+822：钢拱桥
+823：钢桶
+824:听诊器
+825：偷
+826:石墙
+827：秒表，秒表
+828:炉子
+829:过滤器
+830:streetcar, tram, tramcar, trolley, 电车
+831:担架
+832:工作室沙发，沙发床
+833:佛塔、塔顶
+834:submarine, pigboat, sub, U-boat 潜水艇
+835:西装，套装
+836:日晷
+837:太阳镜
+838:太阳镜、墨镜、墨镜
+839：防晒霜、防晒霜、防晒霜
+840:吊桥
+841：拭子，拭子，拖把
+842:运动衫
+843：泳裤、泳裤
+844：摇摆
+845:switch, electric switch, 电气开关
+846:注射器
+847:台灯
+848：坦克，陆军坦克，装甲战车，装甲战车
+849:录音机
+850:茶壶
+851：泰迪，泰迪熊
+852：电视，电视系统
+853:网球
+854:茅草屋顶
+855:剧院幕布，剧院幕布
+856:顶针
+857:thresher, 脱粒机, 脱粒机
+858：宝座
+859:瓦屋顶
+860:烤面包机
+861：烟草店，烟草店，烟草店
+862：马桶座圈
+863：手电筒
+864：图腾柱
+865：拖车，拖车，清障车
+866:玩具店
+867:拖拉机
+868:trailer truck, tractor trailer, trucking rig, rig, 铰接式货车, semi
+869:托盘
+870:风衣
+871:tricycle, 三轮车, velocipede
+872：三体船
+873:三脚架
+874:凯旋门
+875：无轨电车，无轨电车，无轨电车
+876:长号
+877：浴缸，大桶
+878:旋转门
+879:打字机键盘
+880:雨伞
+881：独轮车，独轮车
+882：立式钢琴
+883：吸尘器，吸尘器
+884:花瓶
+885：金库
+886:天鹅绒
+887：自动售货机
+888:外衣
+889:高架桥
+890:小提琴、小提琴
+891:排球
+892:华夫饼铁
+893:挂钟
+894：钱包、皮夹、笔记本、皮夹
+895:衣橱、壁橱、印刷机
+896：战机，军用飞机
+897：洗脸盆、洗手盆、洗脸盆、洗手盆、洗手盆
+898：洗衣机，自动洗衣机，洗衣机
+899:水壶
+900:水壶
+901:水塔
+902:威士忌壶
+903：哨子
+904:假发
+905:窗纱
+906:窗帘
+907：温莎领带
+908:酒瓶
+909：翅膀
+910:炒锅
+911:木勺
+912：羊毛，毛呢，羊毛
+913：worm fence，snake fence，snake-rail fence，Virginia fence
+914：沉没
+915：吼叫
+916：蒙古包
+917:web site, website, internet site, 网站
+918:漫画书
+919:填字游戏，纵横字谜
+920：路牌
+921:traffic light, traffic signal, 红绿灯
+922：书套、防尘套、防尘套、防尘纸
+923:菜单
+924:盘子
+925:鳄梨酱
+926:清汤
+927：火锅，火锅
+928：小事
+929:冰淇淋，冰淇淋
+930:冰棍、棒棒糖、棒棒糖、冰棒
+931:法式面包
+932:百吉饼，米果
+933:椒盐卷饼
+934:芝士汉堡
+935：热狗，热狗，红热
+936:土豆泥
+937:白菜头
+938:西兰花
+939:花椰菜
+940:西葫芦、西葫芦
+941:意面南瓜
+942:橡子南瓜
+943:胡桃南瓜
+944:黄瓜, cuke
+945:朝鲜蓟，朝鲜蓟
+946:甜椒
+947:菜豆
+948:蘑菇
+949：史密斯婆婆
+950:草莓
+951:橙色
+952:柠檬
+953:无花果
+954:菠萝、凤梨
+955:香蕉
+956:菠萝蜜
+957:释迦
+958:石榴
+959：干草
+960:培根蛋面
+961:巧克力酱、巧克力糖浆
+962:面团
+963:肉饼，肉饼
+964:比萨饼，比萨饼
+965:馅饼
+966:卷饼
+967:红酒
+968:浓缩咖啡
+969:杯子
+970:蛋酒
+971：阿尔卑斯山
+972：泡泡
+973：悬崖，坠落，坠落
+974:珊瑚礁
+975:间歇泉
+976：湖边，湖岸
+977:海角，岬角，头，前陆
+978:沙洲，沙洲
+979：海岸，海岸，海岸，海岸
+980:山谷，山谷
+981:火山
+982：棒球运动员，棒球运动员
+983：新郎，新郎
+984:潜水员
+985:油菜籽
+986:雏菊
+987:黄女拖鞋、黄女拖鞋、Cypripedium calceolus、Cypripedium parviflorum
+988:玉米
+989:橡子
+990:hip, 玫瑰果, 玫瑰果
+991:七叶树、七叶树、七叶树
+992:珊瑚菌
+993:木耳
+994：陀螺仪
+995:臭角、腐肉菌
+996:地球之星
+997:hen-of-the-woods, 林中母鸡, Polyporus frondosus, Grifola frondosa
+998:牛肝菌
+999：耳朵，穗状花序，头状花序
+1000：卫生纸、手纸、卫生纸
